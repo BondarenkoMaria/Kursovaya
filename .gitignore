@@ -1,1 +1,7 @@
-
+*.o
+*.exe
+library
+library.exe
+books.txt
+.vscode/
+.idea/
